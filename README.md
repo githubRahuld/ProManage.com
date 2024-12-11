@@ -38,14 +38,17 @@ Make sure you have the following installed:
 
 3. **Install Dependencies: Install the required npm packages**:
    ```bash
-  npm install
+     npm install
+   ```
 
 3. **Set Up Environment Variables: Create a .env file in the root directory and add your API base URL**:
    ```bash
-  VITE_API_BASE_URL=http://your-api-url.com
+     VITE_API_BASE_URL=http://your-api-url.com
+   ```
 
 4. **Run the Application: Start the development server**:
    ```bash
-  npm run dev
+     npm run dev
+   ```
 
   The app will be available at http://localhost:5173/ in your browser.
