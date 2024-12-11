@@ -30,12 +30,11 @@ Make sure you have the following installed:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/githubRahuld/ProManage.com.git
-   ``
 
 2. **Navigate to the Project Directory**:
    ```bash
-  cd project-management-app
-
+     cd project-management-app
+   ```
 
 3. **Install Dependencies: Install the required npm packages**:
    ```bash
