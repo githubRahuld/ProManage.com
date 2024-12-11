@@ -29,7 +29,7 @@ Make sure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/project-management-app.git
+   git clone https://github.com/githubRahuld/ProManage.com.git
 
 2. **Navigate to the Project Directory**:
 
