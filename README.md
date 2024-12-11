@@ -32,23 +32,19 @@ Make sure you have the following installed:
    git clone https://github.com/githubRahuld/ProManage.com.git
 
 2. **Navigate to the Project Directory**:
-
    ```bash
   cd project-management-app
-  ```
+
 
 3. **Install Dependencies: Install the required npm packages**:
-
    ```bash
   npm install
 
 3. **Set Up Environment Variables: Create a .env file in the root directory and add your API base URL**:
-  
    ```bash
   VITE_API_BASE_URL=http://your-api-url.com
 
 4. **Run the Application: Start the development server**:
-
    ```bash
   npm run dev
 
