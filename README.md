@@ -35,6 +35,7 @@ Make sure you have the following installed:
 
    ```bash
   cd project-management-app
+  ```
 
 3. **Install Dependencies: Install the required npm packages**:
 
